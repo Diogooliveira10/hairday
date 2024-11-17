@@ -1,3 +1,14 @@
 {
-    "schedules": []
+  "schedules": [
+    {
+      "id": "1731862133096",
+      "name": "Diogo Oliveira",
+      "when": "2024-11-17T17:00:00.000Z"
+    },
+    {
+      "id": "1731862159415",
+      "name": "Rodrigo Gonçalves",
+      "when": "2024-11-17T21:00:00.000Z"
+    }
+  ]
 }
